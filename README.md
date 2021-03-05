@@ -1,1 +1,1 @@
-# dubclub
+# nekitsan.github.io/dubclub
