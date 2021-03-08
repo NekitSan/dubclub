@@ -1,2 +1,2 @@
-# nekitsan.github.io/dubclub
+# https://nekitsan.github.io/dubclub
 #
